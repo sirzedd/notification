@@ -1,0 +1,3 @@
+Simple notification center-ish object.
+Can observe a topic and post to a topic (fire and forget).
+But can get values from a topic and also modify an object based on topics.
